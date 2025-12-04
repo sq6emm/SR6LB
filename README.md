@@ -1,5 +1,6 @@
 This is technical documentation of SR6LB microwave beacon
 
+Meshtastic trace url: [https://lorastats.pl/Node/54034]
 
 # History
 
